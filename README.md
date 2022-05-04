@@ -4,6 +4,15 @@
 
 It is a json schema generator from any json source.
 
+#### Install
+
+You should clone this repo into your machine and install it:
+
+```
+git clone https://github.com/Pervasive-Technologies/json_schema_generator
+pip3 install -e ./json_schema_generator
+```
+
 #### Usage
 
 See [Usage](USAGE.md)
